@@ -1,0 +1,47 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+/dist/
+/build/
+
+# Vite
+.vite/
+
+# Caches and temp
+.cache/
+.tmp/
+.temp/
+.eslintcache
+.stylelintcache
+
+# Coverage
+coverage/
+*.lcov
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Platform directories
+.vercel/
+.netlify/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+*.log
