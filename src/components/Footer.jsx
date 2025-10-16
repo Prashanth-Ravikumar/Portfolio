@@ -51,7 +51,7 @@ const Footer = () => {
                 <FaLinkedin className="w-5 h-5" />
               </motion.a>
               <motion.a
-                href="mailto:prashanthravikumar12@gmail.com"
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=prashanthravikumar12@gmail.com"
                 className="p-2 bg-gray-800 rounded-full hover:bg-gradient-to-r hover:from-blue-500 hover:to-violet-600 transition-all duration-300"
                 whileHover={{ scale: 1.1, rotate: 5 }}
                 whileTap={{ scale: 0.9 }}
@@ -84,7 +84,7 @@ const Footer = () => {
             <ul className="space-y-3 text-gray-400">
               <li className="flex items-center gap-2">
                 <HiMail className="w-5 h-5 text-blue-500" />
-                <a href="mailto:prashanthravikumar12@gmail.com" className="hover:text-white transition-colors">
+                <a href="https://mail.google.com/mail/?view=cm&fs=1&to=prashanthravikumar12@gmail.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
                   prashanthravikumar12@gmail.com
                 </a>
               </li>

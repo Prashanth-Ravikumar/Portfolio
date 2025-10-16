@@ -44,7 +44,7 @@ const Contact = () => {
       icon: HiMail,
       title: 'Email',
       value: '@prashanthravikumar12@gmail.com',
-      link: 'mailto:prashanthravikumar12@gmail.com',
+      link: 'https://mail.google.com/mail/?view=cm&fs=1&to=prashanthravikumar12@gmail.com',
       color: 'from-blue-500 to-blue-600',
     },
     {
@@ -160,7 +160,7 @@ const Contact = () => {
                 {[
                   { icon: FaGithub, link: 'https://github.com/Prashanth-Ravikumar', color: 'hover:text-gray-900 dark:hover:text-white' },
                   { icon: FaLinkedin, link: 'https://www.linkedin.com/in/prashanth-ravikumar-531836290/', color: 'hover:text-blue-600' },
-                  { icon: HiMail, link: 'mailto:prashanthravikumar12@gmail.com', color: 'hover:text-blue-500' },
+                  { icon: HiMail, link: 'https://mail.google.com/mail/?view=cm&fs=1&to=prashanthravikumar12@gmail.com', color: 'hover:text-blue-500' },
                 ].map((social, index) => (
                   <motion.a
                     key={index}

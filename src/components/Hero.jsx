@@ -197,7 +197,7 @@ const Hero = () => {
           </motion.a>
 
           <motion.a
-            href="mailto:prashanthravikumar12@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=prashanthravikumar12@gmail.com"
             className="p-3 glass-effect rounded-full hover:bg-gradient-to-r hover:from-blue-500 hover:to-violet-600 hover:text-white transition-all duration-300"
             whileHover={{ scale: 1.1, rotate: 5 }}
             whileTap={{ scale: 0.9 }}
