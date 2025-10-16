@@ -108,11 +108,7 @@ const Hero = () => {
         animate="visible"
         className="section-container relative z-10 text-center"
       >
-        <motion.div variants={itemVariants} className="mb-6">
-          <span className="inline-block px-4 py-2 bg-gradient-to-r from-blue-500 to-violet-600 text-white rounded-full text-sm font-semibold shadow-lg">
-            Welcome to my Portfolio
-          </span>
-        </motion.div>
+        
 
         <motion.h1
           variants={itemVariants}
@@ -148,8 +144,9 @@ const Hero = () => {
           className="flex flex-wrap justify-center gap-4 mb-8"
         >
           <motion.a
-            href="/resume.pdf"
-            download
+            href="Prashanth_Resume.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
             className="flex items-center gap-2 px-8 py-3 bg-gradient-to-r from-blue-500 to-violet-600 text-white rounded-full font-semibold shadow-lg hover:shadow-xl transition-all duration-300"
             whileHover={{ scale: 1.05, y: -2 }}
             whileTap={{ scale: 0.95 }}
