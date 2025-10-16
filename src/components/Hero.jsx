@@ -175,7 +175,7 @@ const Hero = () => {
           className="flex justify-center gap-6"
         >
           <motion.a
-            href="https://github.com/Prashanth1903"
+            href="https://github.com/Prashanth-Ravikumar"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 glass-effect rounded-full hover:bg-gradient-to-r hover:from-blue-500 hover:to-violet-600 hover:text-white transition-all duration-300"
@@ -186,7 +186,7 @@ const Hero = () => {
           </motion.a>
 
           <motion.a
-            href="https://www.linkedin.com/in/prashanth-r-s-6b6b2b1b3"
+            href="https://www.linkedin.com/in/prashanth-ravikumar-531836290/"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 glass-effect rounded-full hover:bg-gradient-to-r hover:from-blue-500 hover:to-violet-600 hover:text-white transition-all duration-300"

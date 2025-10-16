@@ -43,22 +43,22 @@ const Contact = () => {
     {
       icon: HiMail,
       title: 'Email',
-      value: 'prashanthravikumar12@gmail.com',
+      value: '@prashanthravikumar12@gmail.com',
       link: 'mailto:prashanthravikumar12@gmail.com',
       color: 'from-blue-500 to-blue-600',
     },
     {
       icon: FaGithub,
       title: 'GitHub',
-      value: '@Prashanth1903',
-      link: 'https://github.com/Prashanth1903',
+      value: '@Prashanth-Ravikumar',
+      link: 'https://github.com/Prashanth-Ravikumar',
       color: 'from-gray-700 to-gray-900',
     },
     {
       icon: FaLinkedin,
       title: 'LinkedIn',
-      value: 'Prashanth R S',
-      link: 'https://www.linkedin.com/in/prashanth-r-s-6b6b2b1b3',
+      value: 'Prashanth Ravikumar',
+      link: 'https://www.linkedin.com/in/prashanth-ravikumar-531836290/',
       color: 'from-blue-600 to-blue-700',
     },
   ];
@@ -158,8 +158,8 @@ const Contact = () => {
               </p>
               <div className="flex gap-4">
                 {[
-                  { icon: FaGithub, link: 'https://github.com/Prashanth1903', color: 'hover:text-gray-900 dark:hover:text-white' },
-                  { icon: FaLinkedin, link: 'https://www.linkedin.com/in/prashanth-r-s-6b6b2b1b3', color: 'hover:text-blue-600' },
+                  { icon: FaGithub, link: 'https://github.com/Prashanth-Ravikumar', color: 'hover:text-gray-900 dark:hover:text-white' },
+                  { icon: FaLinkedin, link: 'https://www.linkedin.com/in/prashanth-ravikumar-531836290/', color: 'hover:text-blue-600' },
                   { icon: HiMail, link: 'mailto:prashanthravikumar12@gmail.com', color: 'hover:text-blue-500' },
                 ].map((social, index) => (
                   <motion.a

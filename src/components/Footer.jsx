@@ -31,7 +31,7 @@ const Footer = () => {
             </p>
             <div className="flex gap-4">
               <motion.a
-                href="https://github.com/Prashanth1903"
+                href="https://github.com/Prashanth-Ravikumar"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 bg-gray-800 rounded-full hover:bg-gradient-to-r hover:from-blue-500 hover:to-violet-600 transition-all duration-300"
@@ -41,7 +41,7 @@ const Footer = () => {
                 <FaGithub className="w-5 h-5" />
               </motion.a>
               <motion.a
-                href="https://www.linkedin.com/in/prashanth-r-s-6b6b2b1b3"
+                href="https://www.linkedin.com/in/prashanth-ravikumar-531836290/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 bg-gray-800 rounded-full hover:bg-gradient-to-r hover:from-blue-500 hover:to-violet-600 transition-all duration-300"

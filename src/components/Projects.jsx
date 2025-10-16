@@ -19,7 +19,7 @@ const Projects = () => {
         { name: 'JavaScript', Icon: SiJavascript, color: 'text-yellow-500' },
       ],
       
-      github: 'https://github.com/Prashanth1903',
+      github: 'https://github.com/Prashanth-Ravikumar',
       demo: '#',
       color: 'from-blue-500 to-cyan-500',
     },
@@ -34,7 +34,7 @@ const Projects = () => {
         { name: 'Node.js', Icon: SiNodedotjs, color: 'text-green-600' },
         { name: 'Arduino', Icon: SiArduino, color: 'text-teal-600' },
       ],
-      github: 'https://github.com/Prashanth1903',
+      github: 'https://github.com/Prashanth-Ravikumar',
       demo: '#',
       color: 'from-green-500 to-teal-500',
     },
@@ -47,7 +47,7 @@ const Projects = () => {
         { name: 'JavaScript', Icon: SiJavascript, color: 'text-yellow-500' },
         { name: 'Tailwind', Icon: SiTailwindcss, color: 'text-cyan-500' },
       ],
-      github: 'https://github.com/Prashanth1903',
+      github: 'https://github.com/Prashanth-Ravikumar',
       demo: '#',
       color: 'from-violet-500 to-purple-500',
     },
@@ -171,7 +171,7 @@ const Projects = () => {
           className="text-center mt-12"
         >
           <motion.a
-            href="https://github.com/Prashanth1903"
+            href="https://github.com/Prashanth-Ravikumar"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-3 bg-gradient-to-r from-blue-500 to-violet-600 text-white rounded-full font-semibold shadow-lg hover:shadow-xl transition-all duration-300"
