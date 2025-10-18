@@ -90,14 +90,14 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-2">
                 <FaGithub className="w-5 h-5 text-blue-500" />
-                <a href="https://github.com/Prashanth1903" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
-                  github.com/Prashanth1903
+                <a href="https://github.com/Prashanth-Ravikumar" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+                  github.com/Prashanth-Ravikumar
                 </a>
               </li>
               <li className="flex items-center gap-2">
                 <FaLinkedin className="w-5 h-5 text-blue-500" />
-                <a href="https://www.linkedin.com/in/prashanth-r-s-6b6b2b1b3" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
-                  LinkedIn Profile
+                <a href="https://www.linkedin.com/in/prashanth-ravikumar-531836290/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+                  Prashanth Ravikumar
                 </a>
               </li>
             </ul>

@@ -17,11 +17,11 @@ const Skills = () => {
     {
       title: 'Frontend Development',
       skills: [
-        { name: 'React', level: 85, Icon: FaReact, color: 'from-blue-400 to-blue-600' },
-        { name: 'JavaScript', level: 80, Icon: SiJavascript, color: 'from-yellow-400 to-yellow-600' },
+        { name: 'React', level: 65, Icon: FaReact, color: 'from-blue-400 to-blue-600' },
+        { name: 'JavaScript', level: 60, Icon: SiJavascript, color: 'from-yellow-400 to-yellow-600' },
         { name: 'HTML5', level: 90, Icon: FaHtml5, color: 'from-orange-400 to-orange-600' },
         { name: 'CSS3', level: 85, Icon: FaCss3Alt, color: 'from-blue-400 to-blue-600' },
-        { name: 'Tailwind CSS', level: 88, Icon: SiTailwindcss, color: 'from-cyan-400 to-cyan-600' },
+        { name: 'Tailwind CSS', level: 68, Icon: SiTailwindcss, color: 'from-cyan-400 to-cyan-600' },
       ],
     },
     {
@@ -29,8 +29,7 @@ const Skills = () => {
       skills: [
         { name: 'Node.js', level: 80, Icon: FaNodeJs, color: 'from-green-400 to-green-600' },
         { name: 'Express.js', level: 78, Icon: SiExpress, color: 'from-gray-400 to-gray-600' },
-        { name: 'MongoDB', level: 82, Icon: SiMongodb, color: 'from-green-400 to-green-600' },
-        { name: 'MySQL', level: 75, Icon: SiMysql, color: 'from-blue-400 to-blue-600' },
+        { name: 'MongoDB', level: 62, Icon: SiMongodb, color: 'from-green-400 to-green-600' },
       ],
     },
     {
@@ -38,7 +37,7 @@ const Skills = () => {
       skills: [
         { name: 'C', level: 85, Icon: SiC, color: 'from-blue-400 to-blue-600' },
         { name: 'C++', level: 82, Icon: SiCplusplus, color: 'from-blue-400 to-blue-600' },
-        { name: 'Java', level: 80, Icon: FaJava, color: 'from-red-400 to-red-600' },
+        { name: 'Javascript', level: 60, Icon: FaJava, color: 'from-red-400 to-red-600' },
         { name: 'Python', level: 78, Icon: FaPython, color: 'from-blue-400 to-yellow-600' },
       ],
     },

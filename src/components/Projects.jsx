@@ -19,8 +19,8 @@ const Projects = () => {
         { name: 'JavaScript', Icon: SiJavascript, color: 'text-yellow-500' },
       ],
       
-      github: 'https://github.com/Prashanth-Ravikumar',
-      demo: '#',
+      github: 'https://github.com/Prashanth-Ravikumar/Symposium-webpage.git',
+      demo: 'https://symposium-webpage.vercel.app/',
       color: 'from-blue-500 to-cyan-500',
     },
     {
@@ -34,8 +34,8 @@ const Projects = () => {
         { name: 'Node.js', Icon: SiNodedotjs, color: 'text-green-600' },
         { name: 'Arduino', Icon: SiArduino, color: 'text-teal-600' },
       ],
-      github: 'https://github.com/Prashanth-Ravikumar',
-      demo: '#',
+      github: 'https://github.com/Prashanth-Ravikumar/ems_frontend.git',
+      demo: 'https://ems-frontend-fawn-six.vercel.app/',
       color: 'from-green-500 to-teal-500',
     },
     {
@@ -47,8 +47,8 @@ const Projects = () => {
         { name: 'JavaScript', Icon: SiJavascript, color: 'text-yellow-500' },
         { name: 'Tailwind', Icon: SiTailwindcss, color: 'text-cyan-500' },
       ],
-      github: 'https://github.com/Prashanth-Ravikumar',
-      demo: '#',
+      github: 'https://github.com/Prashanth-Ravikumar/To-Do-App-Website.git',
+      demo: 'https://prashanth-ravikumar.github.io/To-Do-App-Website/',
       color: 'from-violet-500 to-purple-500',
     },
   ];
