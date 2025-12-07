@@ -68,11 +68,15 @@ const About = () => {
                 <div className="w-full h-full rounded-full bg-gray-200 dark:bg-gray-800 flex items-center justify-center overflow-hidden">
                   {/* Placeholder for profile image */}
                   <div className="w-full h-full bg-gradient-to-br from-blue-400 to-violet-500 flex items-center justify-center text-white text-6xl font-bold">
-                    PR
+                    <img
+                      src="/profile.jpg"
+                      alt="Profile"
+                      className="w-full h-full object-cover rounded-full"
+                    />
                   </div>
                 </div>
               </div>
-              
+
               {/* Decorative Elements */}
               <motion.div
                 className="absolute -top-4 -right-4 w-20 h-20 bg-blue-500/20 rounded-full blur-xl"
@@ -102,16 +106,16 @@ const About = () => {
             <h3 className="text-2xl md:text-3xl font-bold text-gray-800 dark:text-white">
               Final-Year EEE Student & Aspiring Full Stack Developer
             </h3>
-            
+
             <p className="text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
-              I'm a motivated engineering student with a passion for creating innovative digital solutions. 
-              My journey combines the worlds of hardware and software, with hands-on experience in IoT-based 
+              I'm a motivated engineering student with a passion for creating innovative digital solutions.
+              My journey combines the worlds of hardware and software, with hands-on experience in IoT-based
               projects and a strong foundation in full-stack web development.
             </p>
 
             <p className="text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
-              I specialize in building modern, responsive web applications using the MERN stack and have 
-              developed several IoT solutions that bridge the gap between physical devices and digital interfaces. 
+              I specialize in building modern, responsive web applications using the MERN stack and have
+              developed several IoT solutions that bridge the gap between physical devices and digital interfaces.
               My goal is to leverage technology to solve real-world problems and create meaningful user experiences.
             </p>
 
