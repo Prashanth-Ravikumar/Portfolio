@@ -144,7 +144,7 @@ const Hero = () => {
           className="flex flex-wrap justify-center gap-4 mb-8"
         >
           <motion.a
-            href="/public/Prashanth_Resume.pdf"
+            href="/Prashanth_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-8 py-3 bg-gradient-to-r from-blue-500 to-violet-600 text-white rounded-full font-semibold shadow-lg hover:shadow-xl transition-all duration-300"
